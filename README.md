@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
