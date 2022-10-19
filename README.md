@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
-, I'm Niranjan Kumar</h1>
+, I'm Akash Kumar</h1>
 <h3 align="center">< Full Stack Web Developer /></h3>
 
 <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://akash07032001.github.io/](https://akash07032001.github.io/)
 
-- 💬 Ask me about **Javascript , Reactjs , Algorithms**
+- 💬 Ask me about **Javascript , Java , Algorithms**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 
-<a href="https://linkedin.com/in/niranjan-kumar682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar682" height="30" width="40" /></a>
-<a href = 'https://github.com/kniranjan0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.linkedin.com/in/akash-kumar-3b8989236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kumar-3b8989236" height="30" width="40" /></a>
+<a href = 'https://github.com/Akash07032001'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
