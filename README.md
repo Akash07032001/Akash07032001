@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects Tech Articles**
 
-- 👨‍💻 All of my projects are available at [https://niranjan-kumar.netlify.app/#/home](https://niranjan-kumar.netlify.app/#/home)
+- 👨‍💻 All of my projects are available at [https://akash07032001.github.io/](https://akash07032001.github.io/)
 
 - 💬 Ask me about **Javascript , Reactjs , Algorithms**
 
