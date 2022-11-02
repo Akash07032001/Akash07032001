@@ -55,6 +55,6 @@
 </a>
 
  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kniranjan0)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akash07032001)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kniranjan0)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash07032001)
