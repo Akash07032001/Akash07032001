@@ -47,11 +47,11 @@
 
 ## My GitHub Stats 📊
 
-<a href="https://github.com/kniranjan0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0" />
+<a href="https://github.com/Akash07032001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash07032001" />
 </a>
-<a href="https://github.com/kniranjan0">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kniranjan0&count_private=true&show_icons=true&theme=radical" />
+<a href="https://github.com/Akash07032001">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akash07032001&count_private=true&show_icons=true&theme=radical" />
 </a>
 
  
