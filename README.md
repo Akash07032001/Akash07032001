@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://akash07032001.github.io/](https://akash07032001.github.io/)
 
+- 🌈 Hare is my [RESUME](https://drive.google.com/file/d/1ZVOTSukVxAaL8TRvJSajIiABp09LH949/view?usp=sharing)
+
 - 💬 Ask me about **Javascript , Java , Algorithms**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
