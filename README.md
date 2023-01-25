@@ -14,6 +14,8 @@
 
 - 🌈 Hare is my [RESUME](https://drive.google.com/file/d/1ZVOTSukVxAaL8TRvJSajIiABp09LH949/view?usp=sharing)
 
+- 👯 Contact me on [Linkedin](https://www.linkedin.com/in/akash-kumar-3b8989236/)
+
 - 💬 Ask me about **Javascript , Java , Algorithms**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
