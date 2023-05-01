@@ -1,70 +1,92 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
-, I'm Akash Kumar</h1>
-<h3 align="center">< Aspiring MERN Developer /></h3>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dhruv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv&layout=compact">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="Akash07032001" /> </p>
+ -->
 
-- 🌱 I’m currently learning **I’m currently learning JAVA BackEnd**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects Tech Articles**
-
-- 👨‍💻 All of my projects are available at [https://akash07032001.github.io/](https://akash07032001.github.io/)
-
-- 🌈 Hare is my [RESUME](https://drive.google.com/file/d/1ZVOTSukVxAaL8TRvJSajIiABp09LH949/view?usp=sharing)
-
-- 👯 Contact me on [Linkedin](https://www.linkedin.com/in/akash-kumar-3b8989236/)
-
-- 💬 Ask me about **Javascript , Java , Algorithms**
-
-<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/akash-kumar-3b8989236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kumar-3b8989236" height="30" width="40" /></a>
-<a href = 'https://github.com/Akash07032001'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Akash Kumar </a>!
+ </h2>
+<h4 align="center">  I'm a passionate Java Developer with a specialization in Java stack from New Delhi (India). </h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
-<img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
-<h2 align="left">Languages and Tools :  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 
-<div align="left">
-  
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="75" />
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /> 
-  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="75"/>
-  
-
-<!--    -->
-
-<!--    --> 
-
-
-</div> 
-<br>
-
-
-## My GitHub Stats 📊
-
-<a href="https://github.com/Akash07032001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash07032001" />
+<a href="https://www.linkedin.com/in/akash-kumar-3b8989236/">
+  <img align="left" alt="Akash's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
-<a href="https://github.com/Akash07032001">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akash07032001&count_private=true&show_icons=true&theme=radical" />
-</a>
+<!-- <a href="https://twitter.com/">
+  <img align="left" alt="Dhruva | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> -->
 
+<br/>
+<br/>
+
+
+## About Me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<b>Motivated and efficient Full stack developer</b> with a history of education in Masai School and an interest in coding. Working with Java & React stack and  programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+
+
+- 🔭 I’m currently learning : Java Development and React Development 
+- 👯 I’m looking to collaborate on Linkedin
+- 💬 Ask me about : Data Structures and Algorithms, Java, Spring, Spring-Boot, Hibernate+JPA, MySQL, React, Redux, HTML, CSS, JavaScript 
+- 📫 How to reach me akash2good4you@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
+ <br>
  
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akash07032001)
+## 🚀 Languages and Tools:
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
+    <img src="https://miro.medium.com/max/1200/1*Oe7xavCj5qCBzwTbLDbPTg.jpeg" alt="SQL"  width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+    
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash07032001) -->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 📊 My Github Stats
+
+<br/>
+    <a href="https://github.com/Akash07032001/github-readme-stats"><img alt="Akash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akash07032001&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+    </br>
+  <a href="https://github.com/Akash07032001/github-readme-stats"><img alt="Akash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash07032001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+ <br>
+ 
+ <h2>ℹ️ &nbsp;Github Info</h2>
+<details>	
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash07032001&theme=github_dark" alt="Akash's" align = "center"/></p>
+</details>
+<details>
+<!--  <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Akash07032001&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Akash" /></p>
+</details> -->
+<details>
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Akash" src="https://activity-graph.herokuapp.com/graph?username=Akash07032001&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+</details>
+<details>   
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/Akash07032001"><img src="https://github-profile-trophy.vercel.app/?username=Akash07032001&margin-w=5&theme=radical" alt="Akash" /></a> </p>
+ </details>
+
+
+ <hr>
+<p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
