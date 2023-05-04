@@ -31,7 +31,7 @@
 
 
 - 🔭 I’m currently learning : Java Development Development 
-- 👯 I’m looking to collaborate on Linkedin
+- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akash-kumar-3b8989236/)
 - 💬 Ask me about : Data Structures and Algorithms, Java, Spring, Spring-Boot, Hibernate+JPA, MySQL, Redux, HTML, CSS, JavaScript 
 - 📫 How to reach me akash2good4you@gmail.com
 - 😄 Pronouns: He/His
