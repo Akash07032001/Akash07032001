@@ -30,8 +30,8 @@
 <b>Motivated and efficient Full stack developer</b> with a history of education in Masai School and an interest in coding. Working with Java & React stack and  programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently learning : Java Development Development 
-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akash-kumar-3b8989236/)
+- 🔭 I’m currently learning : Java Development
+- 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about : Data Structures and Algorithms, Java, Spring, Spring-Boot, Hibernate+JPA, MySQL, Redux, HTML, CSS, JavaScript 
 - 📫 How to reach me akash2good4you@gmail.com
 - 😄 Pronouns: He/His
