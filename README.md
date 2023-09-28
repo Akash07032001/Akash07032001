@@ -4,10 +4,7 @@
 
  -->
 
-
-<h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Akash Kumar </a>!
- </h2>
+<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h4 align="center">  I'm a passionate Java Developer with a specialization in Java stack from New Delhi (India). </h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
@@ -15,7 +12,7 @@
 
 
 <a href="https://www.linkedin.com/in/akash-kumar-3b8989236/">
-  <img align="left" alt="Akash's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Akash's LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <!-- <a href="https://twitter.com/">
   <img align="left" alt="Akash | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
